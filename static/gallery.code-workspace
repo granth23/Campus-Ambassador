@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "gallery",
+			"path": "../TechWeek-master/gallery"
+		},
+		{
+			"name": "template",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "template"
+	}
+}
